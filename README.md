@@ -15,7 +15,9 @@ The analysis investigates customer groups based on their income level, restauran
 ## Visualizations
 Several visualizations are included to explore:
 - The distribution of customer income levels.
+    ![Image]
 - The frequency of restaurant visits.
+  ![Image](https://github.com/Nothgisrandom/AIML/blob/main/restaurant_visits_distribution.png )
 - Missing data and its impact on the analysis.
 ![Image](https://github.com/Nothgisrandom/AIML/blob/main/MissingData.png)
 
