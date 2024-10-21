@@ -36,6 +36,7 @@ To get the highest acceptance rate (about 70%) with bar coupons you should send 
 I explored the coffee house compounds. Here are my key findings:
 1. The overall coffee coupon acceptance rate is 50.0 %.
 2. The coffee coupon acceptance rate for single, unemployed females who are 21 years old is 59.0 %.
-3.   No clear trend or relation with income levels.
+3. No clear trend or relation with income levels.
+![Image](https://github.com/Nothgisrandom/AIML/blob/main/income_acceptance_rate_chart.png)
 
    
