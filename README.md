@@ -25,14 +25,14 @@ Several visualizations are included to explore:
 - **Acceptance Rates**: 
 - Overall bar coupon acceptance rate= 41.0 %
 - Acceptance rate for drivers who go to a bar more than once a month and are over the age of 25= 70.0 %
-- The acceptance rate for drivers who go to bars more than once a month, had no kid passengers, and have occupations other than farming, fishing, or forestry= 71.0%
+- The acceptance rate for drivers who go to bars more than once a month, have no kid passengers, and have occupations other than farming, fishing, or forestry= 71.0%
 - The acceptance rate for frequent restaurant visitors earning less than $50K: 39%
-- Acceptance rate for drivers who go to cheap restaurants more than 4 times a month and income is less than 50K= 39.0%
+- Acceptance rate for drivers who go to cheap restaurants more than four times a month and income is less than 50K= 39.0%
 
 ## Summary:
-To get the highest acceptance rate (about 70%) with bar coupons you should send more coupons to customoers with the following attributes:
+To get the highest acceptance rate (about 70%) with bar coupons, you should send more coupons to customers with the following attributes:
 1. go to a bar more than once a month and are over 25.
-2. go to bars more than once a month, have no kid passengers, and have occupations other than farming,fishing, or forestry.
+2. go to bars more than once a month, have no kid passengers, and have occupations other than farming, fishing, or forestry.
 
 ## Independent Exploration:
 I explored the coffee house compounds. Here are my key findings:
