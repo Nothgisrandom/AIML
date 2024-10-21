@@ -17,7 +17,7 @@ Several visualizations are included to explore:
 - The distribution of customer income levels.
 - The frequency of restaurant visits.
 - Missing data and its impact on the analysis.
-![Image](OneDrive - North Carolina A&T State University/Desktop/Berklay AI ML Cert/Week 5 Notes & Resources/assignment5_1_starter/MissingData.png) 
+![Image](https://github.com/Nothgisrandom/AIML/blob/main/MissingData.png)
 
 ## Findings
 - **Acceptance Rates**: 
