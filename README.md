@@ -6,7 +6,7 @@ This project analyzes customer behavior to determine whether they will accept a 
 
 ## Project Structure
 - **Notebook (.ipynb)**: The primary analysis is conducted in the Jupyter Notebook file, which includes data exploration, filtering, visualizations, and acceptance rate calculations. These contain the core logic for data filtering and calculations.
-- Link to Notebook: Revised_AHasan_Practical_Application_5.1_Solution.ipynb 
+- Link to Notebook: [Revised_AHasan_Practical_Application_5.1_Solution.ipynb ](https://github.com/Nothgisrandom/AIML/blob/main/Revised_AHasan_Practical_Application_5.1_Solution.ipynb)
 - **README.md**: The current file provides an overview of the project, methodology, and approach to explore the relation between customer attributes and the probability of accepting the coupon.
 
 ## Methodology
